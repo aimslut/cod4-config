@@ -7,7 +7,7 @@ rose's cod4 config
     `D:\Games\Activision\CoD4\main`
 3. Edit the properties of your cod4 shortcut, and add these launch options to the end 
     `+exec _controls.cfg +set fs_game "mods/pml220"`
-4. Open _controls.cfg and change whatever you like
+4. Open `_controls.cfg` and change whatever you like
 5. Done! :D
 
 ## Explanation of Files
@@ -25,7 +25,7 @@ This is the config file for my binds specific to jumping, and has mainly fps bin
 
 `_promod.cfg`
 
-Essentially the config file to reset controls that got changed by _jump.cfg ( I know I can re-exec _controls.cfg, but prefer a toggle ).
+Essentially the config file to reset controls that got changed by `_jump.cfg` ( I know I can re-exec `_controls.cfg`, but prefer a toggle ).
 
 
 ### Scope+Rifle Switches
