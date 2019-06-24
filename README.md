@@ -10,6 +10,13 @@ rose's cod4 config
 4. Open `_controls.cfg` and change whatever you like
 5. Done! :D
 
+## Alternate Installation
+1. Follow steps 1 + 2 on the other installation
+2. Open `_controls.cfg` and change whatever you like
+3. Open CoD4, open the console, and write `exec _controls.cfg`
+4. Done! :D
+
+
 ## Explanation of Files
 
 `_controls.cfg`
